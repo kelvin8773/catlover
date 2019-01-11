@@ -2,7 +2,8 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  /* background: linear-gradient(to left, rgba(7,27,82,1) 0%, rgba(0,128,128,1) 100%); /* w3c */ */
-  background: linear-gradient(to left, rgba(194, 173, 182, 1) 30%, rgba(147, 52, 115, 1) 100%); /* w3c */
+  /* background: linear-gradient(to left, rgba(7,27,82,1) 0%, rgba(0,128,128,1) 100%); */
+  background: linear-gradient(to right, rgba(194, 173, 182, 1) 30%, rgba(103, 35, 80, 1) 100%);
+
 
 }
